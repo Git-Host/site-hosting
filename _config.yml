@@ -5,7 +5,7 @@ highlighter: pygments
 # Site settings
 title: "The Direct Marketer"
 description: > # this means to ignore newlines until "email:"
-    You need more money coming in. The life of a business is wraught with risks and setbacks. It's not a bad thing to be hungry for a fatter bottom line. In fact, it's your responsibility to make that margin grow.
+    You need more money coming in. It's not a bad thing to be hungry for a fatter bottom line. In fact, it's your responsibility to make that margin grow. 
 
 
 email: james.s.mathison@gmail.com
@@ -39,16 +39,23 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
+#  - icon:	github
+#    url:	https://github.com/dirkfabisch
+#    desc:	Fork me on github
+#    share_url:
+#    share_title:
+#    share_link:
+
+  - icon:	google-plus
+    url:	https://plus.google.com/+JamesMathison/posts
+    desc:	Add me on google+
     share_url:
     share_title:
     share_link:
 
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
+  - icon:	linkedin
+    url:	https://www.linkedin.com/in/jamesmathison
+    desc:	Connect with me on Linkedin
+    share_url:
+    share_title:
+    share_link:
