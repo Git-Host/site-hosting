@@ -1,7 +1,8 @@
 # Site settings
 title: The Direct Marketer
 email: james.s.mathison@gmail.com
-description: > You need more money coming in. The life of a business is wraught with risks and setbacks. It's not a bad thing to be hungry for a fatter bottom line. In fact, it's your responsibility to make that margin grow.
+description: > 
+You need more money coming in. The life of a business is wraught with risks and setbacks. It's not a bad thing to be hungry for a fatter bottom line. In fact, it's your responsibility to make that margin grow.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 twitter_username: _DirectMarketer
