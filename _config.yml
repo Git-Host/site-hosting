@@ -1,9 +1,7 @@
 # Site settings
 title: The Direct Marketer
 email: james.s.mathison@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-You need more money coming in. The life of a business is wraught with risks and setbacks. It's not a bad thing to be hungry for a fatter bottom line. In fact, it's your responsibility to make that margin grow. Click <a href="http://www.thedirectmarketer.com/start-here">here</a> to find out what you need to know. 
-# Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+description: > You need more money coming in. The life of a business is wraught with risks and setbacks. It's not a bad thing to be hungry for a fatter bottom line. In fact, it's your responsibility to make that margin grow.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 twitter_username: _DirectMarketer
