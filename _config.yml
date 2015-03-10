@@ -3,18 +3,19 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Mediator"
+title: "The Direct Marketer"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+    You need more money coming in. The life of a business is wraught with risks and setbacks. It's not a bad thing to be hungry for a fatter bottom line. In fact, it's your responsibility to make that margin grow.
 
-email: a-mail@mail.mail
+
+email: james.s.mathison@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/author.jpg"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'James Mathison'
+author: 'James Mathison'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
@@ -25,7 +26,7 @@ baseurl: ""
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
+    url:	https://twitter.com/_DirectMarketer
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
