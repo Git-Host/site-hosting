@@ -3,6 +3,16 @@ layout: default
 ---
 
 <div class="teaserimage">
+    
+    <div id='cssmenu'>
+<ul>
+   <li class='active'><a href='#'><span>Home</span></a></li>
+   <li><a href='#'><span>Products</span></a></li>
+   <li><a href='#'><span>Company</span></a></li>
+   <li class='last'><a href='#'><span>Contact</span></a></li>
+</ul>
+</div>
+    
     <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover }})"{% endif %}>
         Teaser Image
     </div>
@@ -78,7 +88,8 @@ layout: default
       {% if paginator.next_page %}
         <a class="newer-posts" href="/page{{paginator.next_page}}">&larr; Older posts</a>
       {% endif %}
-      <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+<!--      <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+-->
       {% if paginator.previous_page %}
         {% if paginator.page == 2 %}
           <a class="older-posts" href="/">Newer posts &rarr;</a>

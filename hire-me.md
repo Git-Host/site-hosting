@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Hire Me
+title: Coming Soon
 permalink: /hire-me/
 ---
