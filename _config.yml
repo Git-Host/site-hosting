@@ -12,9 +12,9 @@ email: james.s.mathison@gmail.com
 #blog logo
 # logo: "/assets/images/logo.jpg"
 # blog cover
-cover: "https://s3-eu-west-1.amazonaws.com/the-direct-marketer/Header+Images/typewriter-header.jpg "
+cover: "https://s3-eu-west-1.amazonaws.com/the-direct-marketer/Header+Images/typewriter-header.jpg"
 
-name: 'James Mathison'
+name: 'The Direct Marketer'
 author: 'James Mathison'
 author_image: "/assets/images/author.jpg"
 
