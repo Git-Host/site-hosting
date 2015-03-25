@@ -12,13 +12,13 @@ email: james.s.mathison@gmail.com
 #blog logo
 # logo: "/assets/images/logo.jpg"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "https://s3-eu-west-1.amazonaws.com/the-direct-marketer/Header+Images/typewriter-header.jpg "
 
 name: 'James Mathison'
 author: 'James Mathison'
 author_image: "/assets/images/author.jpg"
 
-logo: "/assets/images/dm_logo.jpg"
+logo: "/assets/images/dm_logo.png"
 
 paginate:	5
 
