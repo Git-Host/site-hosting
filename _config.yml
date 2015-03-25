@@ -18,6 +18,8 @@ name: 'James Mathison'
 author: 'James Mathison'
 author_image: "/assets/images/author.jpg"
 
+logo: "/assets/images/dm_logo.jpg"
+
 paginate:	5
 
 url: "http://www.thedirectmarketer.com" # the base hostname & protocol for your site
